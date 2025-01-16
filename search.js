@@ -107,5 +107,5 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function redirectToSubmit() {
-    window.location.href = "index2.html";
+    window.location.href = "index.html";
 }
